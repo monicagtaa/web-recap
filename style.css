@@ -1,0 +1,54 @@
+/* *: uiversial Sector*/
+
+*{
+    margin: 10;
+    padding: 0;
+    /* color: red; */
+}
+
+img {
+    width: 100px;
+}
+
+/* tag-name selector */
+/* p {
+    color: red;
+} */
+h1{
+    font-size: 25px;
+}
+
+ h3 {
+    font-size: 14px;
+} 
+
+.card {
+    width: 300px;
+    margin: 0px auto;
+    height: auto;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    color: midnightblue;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    /* opacity: 0.5; */
+    transition: opacity 0.3s ease;
+  }
+  
+
+
+/* class-name selector */
+
+/* .heading {
+    font-style: italic;
+} */
+
+/* id selector */
+
+/* #main-language {
+    font-weight: bold;
+}  */
+
+
